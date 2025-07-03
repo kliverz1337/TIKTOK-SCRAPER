@@ -5,7 +5,7 @@ Aplikasi desktop yang dirancang untuk mengotomatiskan proses ekstraksi seluruh t
 ## Galeri Aplikasi
 | Tampilan Awal | Proses Scraping | Tampilan Hasil |
 | :---: | :---: | :---: |
-| ![Tampilan Awal Aplikasi](screenshot/Screenshot_108.png) | ![Proses Scraping Sedang Berjalan](Screenshot/screenshot_109.png) | ![Hasil Ekstraksi Ditampilkan](screenshot/Screenshot_110.png) |
+| ![Tampilan Awal Aplikasi](screenshot/Screenshot_108.png) | ![Proses Scraping Sedang Berjalan](screenshot/Screenshot_109.png) | ![Hasil Ekstraksi Ditampilkan](screenshot/Screenshot_110.png) |
 
 ## Fitur Utama
 - **Browser Tersemat:** Mengintegrasikan web engine untuk me-render halaman dan menangani elemen interaktif seperti CAPTCHA.
